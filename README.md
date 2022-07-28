@@ -1,4 +1,4 @@
-  ##  Oi, Sou Vitor Sampaio! Web-developer e YouTuber!
+  ##  Oi, Sou Vitor Sampaio! Web-developer!
 
 <div align="center">
   <a href="https://github.com/Sampai0z">
