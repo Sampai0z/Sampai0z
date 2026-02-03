@@ -3,12 +3,6 @@
   </div>
 
   <div align="center">
-    <a href="https://github.com/Sampai0z">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sampai0z&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampai0z&layout=compact&langs_count=7&theme=light"/>
-  </div>
-  
-  <div align="center">
    <h2>Technologies that I use the most</h2>
   </div>
   
